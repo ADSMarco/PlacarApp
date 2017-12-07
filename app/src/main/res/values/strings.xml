@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">PlacarApp</string>
-    <string name="label_titulo">Time</string>
-    <string name="label_desenvolvido_por">Desenvolvido por Marco</string>
-    <string name="placar_inicial">0</string>
+    <string name="app_name" translatable="false">PlacarApp</string>
+    <string name="label_titulo">Team</string>
+    <string name="label_desenvolvido_por">Developed by Marco</string>
+    <string name="placar_inicial" translatable="false">0</string>
 
-    <string name="botao">Gol</string>
+    <string name="botao">Goal</string>
 </resources>

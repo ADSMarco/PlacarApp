@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_desenvolvido_por">Desenvolvido por Marco</string>
+    <string name="botao">Gol</string>
+    <string name="label_titulo">Time</string>
+    <string name="placar_inicial">0</string>
+</resources>
