@@ -2,5 +2,7 @@
     <string name="app_name">PlacarApp</string>
     <string name="label_titulo">Time</string>
     <string name="label_desenvolvido_por">Desenvolvido por Marco</string>
+    <string name="placar_inicial">0</string>
 
+    <string name="botao">Gol</string>
 </resources>
